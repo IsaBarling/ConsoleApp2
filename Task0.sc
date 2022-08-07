@@ -4,5 +4,5 @@ userNumber = Convert.ToInt32(Console.ReadLine());
 
 
 int result = (userNumber * userNumber);
-Console.WriteLine(result);
+Console.WriteLine("Степень числа "+userNumber+" = "+result);
 
